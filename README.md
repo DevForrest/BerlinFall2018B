@@ -1,4 +1,4 @@
-Project SER316
+﻿Project SER316
 
 # spring18project
 This is the initial dump for the ser316 fall 2018 project. It is a slightly modified version of the Memoranda project from memoranda.sf.net
@@ -28,4 +28,6 @@ Thanks!  :)
 Danke!
 
 01110100 01101000 01100001 01101110 01101011 01110011 00100000 00111010 00101001 
+
+Nothing to see here, move along.
 
