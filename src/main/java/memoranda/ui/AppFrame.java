@@ -834,7 +834,7 @@ public class AppFrame extends JFrame {
         PreferencesDialog dlg = new PreferencesDialog(this);
         dlg.pack();
         dlg.setLocationRelativeTo(this);
-        dlg.setVisible(true);
+        dlg.setVisible(false);
     }
     
             protected void ppExport_actionPerformed(ActionEvent e) {
