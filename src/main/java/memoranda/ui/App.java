@@ -141,7 +141,8 @@ public class App {
 	public static void closeWindow() {
 		if (frame == null)
 			return;
-		frame.dispose();
+		//frame.dispose();
+		frame.doExit();
 	}
 
 	/**
