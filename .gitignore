@@ -1,10 +1,9 @@
+
 # Compiled class file
 *.class
 
 # Log file
 *.log
-
-### Eclipse ###
 
 ### Eclipse Patch ###
 # Eclipse Core		
@@ -12,4 +11,12 @@
 
 # JDT-specific (Eclipse Java Development Tools)		
 .classpath
-/classes/
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# JDT-specific (Eclipse Java Development Tools)		
+.classpath
